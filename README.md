@@ -1,0 +1,2 @@
+# PLANet
+a deep convolutional neural network model (called PLANet) is introduced, we represented our data as a cube of fixed size  in 3D space that is discretized into voxels with resolution of 1Å to form a grid, and the model use a 3D convolutional neural network(3DCNN) to predict protein-ligand binding affinity. Moreover, we add an attention mechanism  and MLP to improve the scalability and the accuracy of the 3DCNN model，Upload the data and code after the paper is accepted
